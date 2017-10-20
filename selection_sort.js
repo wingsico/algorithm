@@ -7,7 +7,7 @@ function findSmallest(arr) {
       smallestIndex = i
     }
   }
-  return smallestIndex
+  <re></re>turn smallestIndex
 }
 
 function selectionSort(arr) {
