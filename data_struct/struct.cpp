@@ -29,6 +29,7 @@ int main() {
     getline(cin, p->id);
     cout << "分别输入数学、英语、音乐、计算机的成绩：" << endl;
     cin >> q->Math >> q->English >> q->Music >> q->Computer;
+    cin.get();
   }
 
   for (int i = 0; i < 4;i++) {
