@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <cmath>
 using namespace std;
 #define N 4;
 struct Grades
