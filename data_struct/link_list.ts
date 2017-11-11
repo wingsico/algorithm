@@ -139,3 +139,9 @@ function test(): void {
 }
 
 test()
+
+class name {
+  constructor(parameters) {
+    
+  }
+}
