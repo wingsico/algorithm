@@ -149,7 +149,7 @@ char EvaluateExpression()
     {
       switch (Precede(GetTop(OPTR), c))
       {
-      case '<': // 优先级低
+      case '<': // 优先级
         Push(OPTR, c);
         c = getchar();
         break;
